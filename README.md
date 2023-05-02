@@ -1,6 +1,6 @@
 <p align="center">
   <img
-  src="https://i.ibb.co/tsT8BGj/welcome-1.gif"
+  src="https://i.ibb.co/HFYpN31/Copia-de-welcome.gif"
 </p>
 
 <h3 align="center">En mis tiempos libres traduzco cosas y nada más.</h3>
