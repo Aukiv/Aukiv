@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
   <img
   src="https://i.ibb.co/HFYpN31/Copia-de-welcome.gif"
-</p>
+</h1>
 
 <h3 align="center">En mis tiempos libres traduzco cosas y nada más.</h3>
 
@@ -28,6 +28,10 @@
       alt="aukiv"
   /></a>
 </p>
+  
+  <h1 align="center">
+  
+</h1>
 
 <h6 align="center">
   No apoyo la piratería, si está aquí para obtener videojuegos gratis junto con
