@@ -1,4 +1,8 @@
-<h1 align="center">Bienvenido/a</h1>
+<p align="center">
+  <img
+  src="https://i.ibb.co/tsT8BGj/welcome-1.gif"
+</p>
+
 <h3 align="center">En mis tiempos libres traduzco cosas y nada más.</h3>
 
 <p align="center">
